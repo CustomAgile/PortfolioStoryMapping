@@ -1,0 +1,54 @@
+.app {
+     margin: 20px;
+}
+
+.swim-lanes-container {
+	padding-top:15px;
+	border-top:1px solid #eeeeee;
+}
+
+.epic-label {
+	font-size:1.5em;
+	font-weight:bold;
+	width:250px;
+}
+
+.swim-lane-panel {
+}
+
+.swimlane-board .column .columnContent {
+	min-height: 0
+}
+
+.hide-columns .columnContent {
+	display:none;
+}
+
+.hide-header .column .columnHeader {
+	display: none;
+}
+
+.lefty {
+	float:left;
+	width:15%;
+	min-height: 600px;
+}
+
+.inner {
+	padding: 10px;
+}
+
+.righty {
+	float:left;
+	width:85%;
+	min-height: 600px;
+}
+
+.card-selected {
+	border: 3px solid #00ee11;
+}
+
+.help-text {
+	font-size:3em;
+}
+
